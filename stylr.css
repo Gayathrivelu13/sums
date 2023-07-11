@@ -1,0 +1,27 @@
+#add:hover{
+    height: 30px;
+    width: 100px;
+    background-color: rgb(35, 168, 221);
+    border-radius: 100px 80px 80px 100px;
+}
+#sub:hover{
+    height: 30px;
+    width: 100px;
+    background-color: rgb(35, 168, 221);
+    border-radius: 100px 80px 80px 100px;
+}
+#multiple:hover{
+    height: 30px;
+    width: 100px;
+    background-color: rgb(35, 168, 221);
+    border-radius: 100px 80px 80px 100px;
+}
+#div:hover{
+    height: 30px;
+    width: 100px;
+    background-color: rgb(35, 168, 221);
+    border-radius: 100px 80px 80px 100px;
+}
+
+
+}
